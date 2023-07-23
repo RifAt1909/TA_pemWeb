@@ -1,0 +1,448 @@
+.search-box-column-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px;
+    background-color: #bdbdbd;
+    width: 329px;
+    height: 51px;
+    opacity: 0.13;
+}
+.telusuri-komik {
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    display: inline-block;
+    width: 256px;
+    height: 51px;
+}
+.search-box-column {
+    position: absolute;
+    top: 14px;
+    left: 975px;
+    width: 329px;
+    height: 51px;
+}
+.search-box-button-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px;
+    background-color: #d9d9d9;
+    width: 76px;
+    height: 49px;
+}
+.cari {
+    position: absolute;
+    top: 1px;
+    left: 12px;
+    display: inline-block;
+    width: 52px;
+    height: 56px;
+}
+.search-box-button {
+    position: absolute;
+    top: 14px;
+    left: 1342px;
+    width: 76px;
+    height: 57px;
+    font-size: 36px;
+    color: #787878;
+}
+.nama-web {
+    position: absolute;
+    top: 12px;
+    left: 50px;
+    font-size: 62px;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 123px;
+    height: 55px;
+}
+.search-button {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #2f2e2e;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 79px;
+    color: #f0e8e8;
+}
+.navbar-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #0077b6;
+    width: 1440px;
+    height: 81px;
+}
+.beranda {
+    position: absolute;
+    top: 11px;
+    left: 335px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+    height: 59px;
+}
+.navbar-item {
+    position: absolute;
+    top: 14px;
+    left: 635px;
+    border-right: 2px solid rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    width: 2px;
+    height: 53px;
+}
+.navbar-inner {
+    position: absolute;
+    top: 14px;
+    left: 487px;
+    border-right: 2px solid rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    width: 2px;
+    height: 53px;
+}
+.line-div {
+    position: absolute;
+    top: 14px;
+    left: 811px;
+    border-right: 2px solid rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    width: 2px;
+    height: 53px;
+}
+.rakbuku {
+    position: absolute;
+    top: 12px;
+    left: 659px;
+    font-size: 45px;
+    display: inline-block;
+    width: 130px;
+    height: 57px;
+}
+.Genre {
+    position: absolute;
+    top: 17px;
+    left: 511px;
+}
+.daftar-isi {
+    position: absolute;
+    top: 11px;
+    left: 835px;
+    font-size: 45px;
+    display: inline-block;
+    width: 150px;
+    height: 45px;
+}
+.navbar {
+    position: absolute;
+    top: 79px;
+    left: 0px;
+    width: 1440px;
+    height: 81px;
+}
+.trending-child {
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    background-color: rgba(217, 217, 217, 0.3);
+    width: 863px;
+    height: 469px;
+}
+.trending-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 600px;
+    height: 469px;
+}
+.image-1-icon {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    width: 600px;
+    height: 467px;
+    object-fit: cover;
+    mix-blend-mode: screen;
+}
+.trending-inner {
+    position: absolute;
+    top: 0px;
+    left: 632px;
+    background-color: #d9d9d9;
+    width: 233px;
+    height: 469px;
+}
+.image-2-icon {
+    position: absolute;
+    top: 2px;
+    left: 632px;
+    width: 233px;
+    height: 467px;
+    object-fit: cover;
+}
+.trending {
+    position: absolute;
+    top: 197px;
+    left: 50px;
+    width: 865px;
+    height: 469px;
+}
+.popular-today-item {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 865px;
+    height: 3px;
+}
+.populer-hari-ini {
+    position: absolute;
+    top: 6px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    width: 177px;
+    height: 37px;
+}
+.popular-today {
+    position: absolute;
+    top: 703px;
+    left: 50px;
+    width: 865px;
+    height: 469px;
+    font-size: 30px;
+    color: #000;
+}
+.update-terbaru-child {
+    position: relative;
+    background-color: #d9d9d9;
+    width: 865px;
+    height: 3px;
+    z-index: 0;
+}
+.update-terbaru-item {
+    position: relative;
+    background-color: rgba(217, 217, 217, 0.3);
+    width: 863px;
+    height: 1763px;
+    z-index: 1;
+}
+.listcon .konten .image{
+    height: 120px;
+    border-radius: 0;
+    position: relative;
+    float: left;
+    overflow: hidden;
+    max-width: 100%;
+    margin-right: 10px;
+    border-radius: 3px;
+    margin: content-box;
+}
+.desckon{
+    
+    margin-right: 10px;
+    margin: content-box;
+}
+.desckon .image{
+    height: inherit;
+    max-width: 100%;
+    margin-right: 15px;
+}
+.update-terbaru1 {
+    position: absolute;
+    margin: 0 !important;
+    top: 3px;
+    left: 8px;
+    display: flex;
+    align-items: center;
+    width: 177px;
+    height: 37px;
+    flex-shrink: 0;
+    z-index: 2;
+}
+.update-terbaru {
+    position: absolute;
+    top: 1209px;
+    left: 55px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    font-size: 30px;
+    color: #000;
+}
+.popular-all-time-child {
+    position: relative;
+    background-color: #fff;
+    width: 416px;
+    height: 1px;
+    z-index: 0;
+}
+.popular-all-time-item {
+    position: relative;
+    background-color: #d9d9d9;
+    width: 414px;
+    height: 1500px;
+    z-index: 1;
+}
+.popularity-filter {
+    position: absolute;
+    margin: 0 !important;
+    top: 51px;
+    left: 23px;
+    background-color: #fff;
+    width: 372px;
+    height: 22px;
+    z-index: 2;
+}
+.mingguan1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 3px;
+    background-color: #0077b6;
+    width: 124px;
+    height: 16px;
+}
+.mingguan2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 124px;
+    height: 17px;
+}
+.mingguan {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    width: 124px;
+    height: 17px;
+}
+.bulanan1 {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    border-radius: 3px;
+    background-color: #0077b6;
+    width: 124px;
+    height: 16px;
+}
+.bulanan {
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    width: 124px;
+    height: 17px;
+}
+.selamanya1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 3px;
+    background-color: #0077b6;
+    width: 115px;
+    height: 16px;
+}
+.selamanya2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 115px;
+    height: 17px;
+}
+.selamanya {
+    position: absolute;
+    top: 1px;
+    left: 248px;
+    width: 115px;
+    height: 17px;
+}
+.popularity-filter1 {
+    position: absolute;
+    margin: 0 !important;
+    top: 53px;
+    left: 28px;
+    width: 363px;
+    height: 18px;
+    z-index: 3;
+}
+.populer {
+    position: absolute;
+    margin: 0 !important;
+    top: 2px;
+    left: 5px;
+    font-size: 30px;
+    display: flex;
+    color: #000;
+    text-align: left;
+    align-items: center;
+    width: 177px;
+    height: 37px;
+    flex-shrink: 0;
+    z-index: 4;
+}
+.popular-all-time {
+    position: absolute;
+    top: 197px;
+    left: 973px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    text-align: center;
+    font-size: 13px;
+}
+.footer-child {
+    position: relative;
+    background-color: #0077b6;
+    width: 1440px;
+    height: 36px;
+}
+.footer-item {
+    position: relative;
+    background-color: #d9d9d9;
+    width: 1440px;
+    height: 104px;
+}
+.footer {
+    position: absolute;
+    top: 3333px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.desktop-2 {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 3473px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 40px;
+    color: #fff;
+    font-family: 'Agency FB';
+}
+
+
+body {
+    margin: 0;
+    line-height: normal;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0 auto;
+}
+
