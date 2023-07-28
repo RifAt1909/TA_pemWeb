@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --font-agency-fb: 'Agency FB';
+    --font-comic-neue: 'Comic Neue';
+    
+    /* font sizes */
+    --font-size-11xl: 30px;
+    --font-size-smi: 13px;
+    --font-size-26xl: 45px;
+    --font-size-21xl: 40px;
+    
+    /* Colors */
+    --color-white: #fff;
+    --color-gainsboro-100: #d9d9d9;
+    --color-gainsboro-200: rgba(217, 217, 217, 0.3);
+    --color-steelblue: #0077b6;
+    --color-black: #000;
+    --color-gray-100: rgba(255, 255, 255, 0.3);
+    
+    /* border radiuses */
+    --br-10xs: 3px;
+    --br-mini: 15px;
+    
+}
